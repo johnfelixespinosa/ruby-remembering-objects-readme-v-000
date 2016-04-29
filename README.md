@@ -33,7 +33,7 @@ end
 With this code, we can create a new song like this:
 
 ```ruby
-hotling_bling = Song.new("Hotline Bling")
+hotline_bling = Song.new("Hotline Bling")
 ```
 
 Let's go ahead and create another song:
